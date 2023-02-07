@@ -32,14 +32,12 @@ b. Informationsangebote, die Lehrkräfte und Schüler:innen über die Möglichke
 (1) Die Mitglieder des Vereins gliedern sich in ordentliche, außerordentliche und Ehrenmitglieder.
 (2) Ordentliche Mitglieder sind jene, die sich voll an der Vereinsarbeit beteiligen. Außerordentliche Mitglieder sind solche, die die Vereinstätigkeit vor allem durch Zahlung eines erhöhten Mitgliedsbeitrags fördern. Ehrenmitglieder sind Personen, die hierzu wegen besonderer Verdienste um den Verein ernannt werden.
 
-
 ## § 5: Erwerb der Mitgliedschaft
 
 (1) Mitglieder des Vereins können alle physischen Personen, sowie juristische Personen und rechtsfähige Personengesellschaften werden.
 (2) Über die Aufnahme von ordentlichen und außerordentlichen Mitgliedern entscheidet der Vorstand. Die Aufnahme kann ohne Angabe von Gründen verweigert werden.
 (3) Bis zur Entstehung des Vereins erfolgt die vorläufige Aufnahme von ordentlichen und außerordentlichen Mitgliedern durch die Vereinsgründer, im Fall eines bereits bestellten Vorstands durch diesen. Diese Mitgliedschaft wird erst mit Entstehung des Vereins wirksam. Wird ein Vorstand erst nach Entstehung des Vereins bestellt, erfolgt auch die (definitive) Aufnahme ordentlicher und außerordentlicher Mitglieder bis dahin durch die Gründer des Vereins.
 (4) Die Ernennung zum Ehrenmitglied erfolgt auf Antrag des Vorstands durch die Generalversammlung.
-
 
 ## § 6: Beendigung der Mitgliedschaft
 
@@ -70,7 +68,7 @@ Organe des Vereins sind die Generalversammlung (§§ 9 und 10), der Vorstand (§
     b. schriftlichen Antrag von mindestens einem Zehntel der Mitglieder,
     c. Verlangen der Rechnungsprüfer (§ 21 Abs. 5 erster Satz VereinsG),
     d. Beschluss der/eines Rechnungsprüfer/s (§ 21 Abs. 5 zweiter Satz VereinsG, § 11 Abs. 2 dritter Satz dieser Statuten),
-    e. Beschluss eines gerichtlich bestellten Kurators (§ 11 Abs. 2 letzter Satz dieser Statuten
+    e. Beschluss eines gerichtlich bestellten Kurators (§ 11 Abs. 2 letzter Satz dieser Statuten)
 binnen vier Wochen statt.
 (3) Sowohl zu den ordentlichen wie auch zu den außerordentlichen Generalversammlungen sind alle Mitglieder mindestens zwei Wochen vor dem Termin schriftlich, per E-Mail (an die vom Mitglied dem Verein bekanntgegebene E-Mail-Adresse) einzuladen. Die Anberaumung der Generalversammlung hat unter Angabe der Tagesordnung zu erfolgen. Die Einberufung erfolgt durch den Vorstand (Abs. 1 und Abs. 2 lit. a – c., durch die/einen Rechnungsprüfer (Abs. 2 lit. d. oder durch einen gerichtlich bestellten Kurator (Abs. 2 lit. e..
 (4) Anträge zur Generalversammlung sind mindestens drei Tage vor dem Termin der Generalversammlung beim Vorstand schriftlich, per E-Mail einzureichen.
