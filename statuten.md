@@ -2,9 +2,9 @@
 
 ## § 1: Name, Sitz und Tätigkeitsbereich
 
-(1) Der Verein führt den Namen ”Verein zur Förderung des digital gestützten Mathematikunterrichts“, kurz VZFDDGM, im weiteren als Verein bezeichnet.
-(2) Er hat seinen Sitz in 4020 Linz, Holzstraße 44, und erstreckt seine Tätigkeit auf ganz Österreich.
-(3) Die Errichtung von Zweigvereinen ist nicht beabsichtigt.
+(1) Der Verein führt den Namen ,,Verein zur Förderung des digital gestützten Mathematikunterrichts'', kurz VZFDDGM, im weiteren als Verein bezeichnet.
+(2) Er hat seinen Sitz in Linz und erstreckt seine Tätigkeit auf das gesamte Gebiet der Republik Österreich.
+(3) Die Errichtung von Zweigvereinen ist nicht beabsichtigt. Das Rechnungsjahr entspricht dem Kalenderjahr.
 
 ## § 2: Zweck
 
@@ -43,7 +43,7 @@ b. Informationsangebote, die Lehrkräfte und Schüler:innen über die Möglichke
 
 (1) Die Mitgliedschaft erlischt durch Tod, bei juristischen Personen und rechtsfähigen Personengesellschaften durch Verlust der Rechtspersönlichkeit, durch freiwilligen Austritt und durch Ausschluss.
 (2) Der Austritt kann nur zum letzten des Monats erfolgen. Er muss dem Vorstand mindestens ein Monat vorher schriftlich mitgeteilt werden. Erfolgt die Anzeige verspätet, so ist sie erst zum nächsten Austrittstermin wirksam. Für die Rechtzeitigkeit ist das Datum der Postaufgabe maßgeblich.
-(3) Der Vorstand kann ein Mitglied ausschließen, wenn dieses trotz zweimaliger schriftlicher Mahnung unter Setzung einer angemessenen Nachfrist länger als sechs Monate mit der Zahlung der Mitgliedsbeiträge im Rückstand ist. Die Verpflichtung zur Zahlung der fällig gewordenen Mitgliedsbeiträge bleibt hievon unberührt.
+(3) Der Vorstand kann ein Mitglied ausschließen, wenn dieses trotz zweimaliger schriftlicher Mahnung unter Setzung einer angemessenen Nachfrist länger als sechs Monate mit der Zahlung der Mitgliedsbeiträge im Rückstand ist. Die Verpflichtung zur Zahlung der fällig gewordenen Mitgliedsbeiträge bleibt hiervon unberührt.
 (4) Der Ausschluss eines Mitglieds aus dem Verein kann vom Vorstand auch wegen grober Verletzung anderer Mitgliedspflichten und wegen unehrenhaften Verhaltens verfügt werden.
 (5) Die Aberkennung der Ehrenmitgliedschaft kann aus den im Abs. 4 genannten Gründen von der Generalversammlung über Antrag des Vorstands beschlossen werden.
 
@@ -70,7 +70,7 @@ Organe des Vereins sind die Generalversammlung (§§ 9 und 10), der Vorstand (§
     d. Beschluss der/eines Rechnungsprüfer/s (§ 21 Abs. 5 zweiter Satz VereinsG, § 11 Abs. 2 dritter Satz dieser Statuten),
     e. Beschluss eines gerichtlich bestellten Kurators (§ 11 Abs. 2 letzter Satz dieser Statuten)
 binnen vier Wochen statt.
-(3) Sowohl zu den ordentlichen wie auch zu den außerordentlichen Generalversammlungen sind alle Mitglieder mindestens zwei Wochen vor dem Termin schriftlich, per E-Mail (an die vom Mitglied dem Verein bekanntgegebene E-Mail-Adresse) einzuladen. Die Anberaumung der Generalversammlung hat unter Angabe der Tagesordnung zu erfolgen. Die Einberufung erfolgt durch den Vorstand (Abs. 1 und Abs. 2 lit. a – c., durch die/einen Rechnungsprüfer (Abs. 2 lit. d. oder durch einen gerichtlich bestellten Kurator (Abs. 2 lit. e..
+(3) Sowohl zu den ordentlichen wie auch zu den außerordentlichen Generalversammlungen sind alle Mitglieder mindestens zwei Wochen vor dem Termin schriftlich, per E-Mail (an die vom Mitglied dem Verein bekanntgegebene E-Mail-Adresse) einzuladen. Die Anberaumung der Generalversammlung hat unter Angabe der Tagesordnung zu erfolgen. Die Einberufung erfolgt durch den Vorstand (Abs. 1 und Abs. 2 lit. a – c.), durch die/einen Rechnungsprüfer (Abs. 2 lit. d.) oder durch einen gerichtlich bestellten Kurator (Abs. 2 lit. e.).
 (4) Anträge zur Generalversammlung sind mindestens drei Tage vor dem Termin der Generalversammlung beim Vorstand schriftlich, per E-Mail einzureichen.
 (5) Gültige Beschlüsse – ausgenommen solche über einen Antrag auf Einberufung einer außerordentlichen Generalversammlung – können nur zur Tagesordnung gefasst werden.
 (6) Bei der Generalversammlung sind alle Mitglieder teilnahmeberechtigt. Stimmberechtigt sind nur die ordentlichen und die Ehrenmitglieder. Jedes Mitglied hat eine Stimme. Die Übertragung des Stimmrechts auf ein anderes Mitglied im Wege einer schriftlichen Bevollmächtigung ist zulässig.
