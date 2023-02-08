@@ -1,4 +1,15 @@
-# Statuten: Verein zur Förderung des digital gestützten Mathematikunterrichts
+---
+title: "Statuten: Verein zur Förderung des digital gestützten Mathematikunterrichts"
+header-includes:
+- \usepackage[a4paper, margin=3cm]{geometry}
+- \usepackage{fancyhdr}
+- \usepackage{lastpage}
+- \pagestyle{fancy}
+- \fancyhead[LO,LE]{}
+- "\\fancyhead[CO,CE]{Statuten: VZFDDGM}"
+- \fancyfoot[CO,CE]{\thepage\ von \pageref{LastPage}}
+- \fancypagestyle{plain}{\pagestyle{fancy}}
+---
 
 ## § 1: Name, Sitz und Tätigkeitsbereich
 
