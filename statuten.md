@@ -13,7 +13,7 @@ header-includes:
 
 ## § 1: Name, Sitz und Tätigkeitsbereich
 
-(1) Der Verein führt den Namen ,,Verein zur Förderung des digital gestützten Mathematikunterrichts'', kurz VZFDDGM, im weiteren als Verein bezeichnet.
+(1) Der Verein führt den Namen ,,Verein zur Förderung des digital gestützten Mathematikunterrichts'', kurz VZFDDGM, im Folgenden als Verein bezeichnet.
 (2) Er hat seinen Sitz in Linz und erstreckt seine Tätigkeit auf das gesamte Gebiet der Republik Österreich.
 (3) Das Rechnungsjahr entspricht dem Kalenderjahr.
 
@@ -23,7 +23,7 @@ header-includes:
 
 (2) Die Tätigkeit des Vereins ist nicht auf Gewinn gerichtet.
 
-(3) Der Verein verfolgt nach seinen Statuten ausschließlich und unmittelbar gemeinnützige Zwecke und ist daher ein gemeinnütziger Verein im Sinne der geltenden abgabenrechtlichen Bestimmungen (§§ 34 bis 47 der Bundesabgabenordnung – BAO). Allfällige nicht im Sinne der §§ 34 ff BAO begünstigten Zwecke sind den begünstigten Zwecken völlig untergeordnet und werden höchstens im Ausmaß von 10 % der Gesamtressourcen verfolgt.
+(3) Der Verein verfolgt nach seinen Statuten ausschließlich und unmittelbar gemeinnützige Zwecke und ist daher ein gemeinnütziger Verein im Sinne der geltenden abgabenrechtlichen Bestimmungen (§§ 34 bis 47 der Bundesabgabenordnung – BAO). Allfällige nicht im Sinne der §§ 34 ff. BAO begünstigten Zwecke sind den begünstigten Zwecken völlig untergeordnet und werden höchstens im Ausmaß von 10 % der Gesamtressourcen verfolgt.
 
 ## § 3: Mittel zur Erreichung des Vereinszwecks
 
@@ -35,8 +35,8 @@ header-includes:
     d. Fortbildungs- und Informationsangebote für Lehrkräfte und Schüler:innen zur Nutzung oben genannter und alternativer Mittel und E-Learning-Systemen.
     e. Sofern dies dem Vereinszweck dient, ist der Verein weiters berechtigt,
         I) sich an (gemeinnützigen oder nicht gemeinnützigen) Kapitalgesellschaften zu beteiligen,
-        II) sich Erfüllungsgehilfen gemäß § 40 Abs 1 Bundesabgabenordnung (BAO) zu bedienen oder selbst als Erfüllungsgehilfe tätig zu werden.
-        III) Geldmittel oder sonstige Vermögenswertegemäß § 40a Z 1 BAO spendenbegünstigte Organisationen mit einer entsprechenden Widmung weiterzuleiten, sofern zumindest ein übereinstimmender Organisationszweck besteht.
+        II) sich Erfüllungsgehilfen gemäß § 40 Abs. 1 Bundesabgabenordnung (BAO) zu bedienen oder selbst als Erfüllungsgehilfe tätig zu werden.
+        III) Geldmittel oder sonstige Vermögenswerte gemäß § 40a Z 1 BAO spendenbegünstigte Organisationen mit einer entsprechenden Widmung weiterzuleiten, sofern zumindest ein übereinstimmender Organisationszweck besteht.
         IV) Lieferungen oder sonstige Leistungen gemäß § 40a Z 2 BAO zu Selbstkosten an andere gemeinnützige oder mildtätige Organisationen zu erbringen, sofern zumindest ein übereinstimmender Zweck vorliegt.
         V) Geldmittel gemäß § 40b BAO für Preise und Stipendien zur Verfügung zu stellen.
 (3) Die erforderlichen materiellen Mittel sollen aufgebracht werden durch
@@ -62,7 +62,7 @@ header-includes:
 ## § 6: Beendigung der Mitgliedschaft
 
 (1) Die Mitgliedschaft erlischt durch Tod, bei juristischen Personen und rechtsfähigen Personengesellschaften durch Verlust der Rechtspersönlichkeit, durch freiwilligen Austritt und durch Ausschluss.
-(2) Der Austritt kann nur zum letzten des Monats erfolgen. Er muss dem Vorstand mindestens ein Monat vorher schriftlich mitgeteilt werden. Erfolgt die Anzeige verspätet, so ist sie erst zum nächsten Austrittstermin wirksam. Für die Rechtzeitigkeit ist das Datum der Postaufgabe maßgeblich.
+(2) Der Austritt kann nur zum Letzten des Monats erfolgen. Er muss dem Vorstand mindestens ein Monat vorher schriftlich mitgeteilt werden. Erfolgt die Anzeige verspätet, so ist sie erst zum nächsten Austrittstermin wirksam. Für die Rechtzeitigkeit ist das Datum der Postaufgabe maßgeblich.
 (3) Der Vorstand kann ein Mitglied ausschließen, wenn dieses trotz zweimaliger schriftlicher Mahnung unter Setzung einer angemessenen Nachfrist länger als sechs Monate mit der Zahlung der Mitgliedsbeiträge im Rückstand ist. Die Verpflichtung zur Zahlung der fällig gewordenen Mitgliedsbeiträge bleibt hiervon unberührt.
 (4) Der Ausschluss eines Mitglieds aus dem Verein kann vom Vorstand auch wegen grober Verletzung anderer Mitgliedspflichten und wegen unehrenhaften Verhaltens verfügt werden.
 (5) Die Aberkennung der Ehrenmitgliedschaft kann aus den im Abs. 4 genannten Gründen von der Generalversammlung über Antrag des Vorstands beschlossen werden.
@@ -90,7 +90,7 @@ Organe des Vereins sind die Generalversammlung (§§ 9 und 10), der Vorstand (§
     d. Beschluss der/einer Rechnungsprüfer:innen (§ 21 Abs. 5 zweiter Satz VereinsG, § 11 Abs. 2 dritter Satz dieser Statuten),
     e. Beschluss eines gerichtlich bestellten Kurators (§ 11 Abs. 2 letzter Satz dieser Statuten)
 binnen vier Wochen statt.
-(3) Sowohl zu den ordentlichen wie auch zu den außerordentlichen Generalversammlungen sind alle Mitglieder mindestens zwei Wochen vor dem Termin schriftlich, per E-Mail (an die vom Mitglied dem Verein bekanntgegebene E-Mail-Adresse) einzuladen. Die Anberaumung der Generalversammlung hat unter Angabe der Tagesordnung zu erfolgen. Die Einberufung erfolgt durch den Vorstand (Abs. 1 und Abs. 2 lit. a – c.), durch die/einen Rechnungsprüfer:innen (Abs. 2 lit. d.) oder durch einen gerichtlich bestellten Kurator (Abs. 2 lit. e.).
+(3) Sowohl zu den ordentlichen, als auch zu den außerordentlichen Generalversammlungen sind alle Mitglieder mindestens zwei Wochen vor dem Termin schriftlich, per E-Mail (an die vom Mitglied dem Verein bekanntgegebene E-Mail-Adresse) einzuladen. Die Anberaumung der Generalversammlung hat unter Angabe der Tagesordnung zu erfolgen. Die Einberufung erfolgt durch den Vorstand (Abs. 1 und Abs. 2 lit. a – c.), durch die/einen Rechnungsprüfer:innen (Abs. 2 lit. d.) oder durch einen gerichtlich bestellten Kurator (Abs. 2 lit. e.).
 (4) Anträge zur Generalversammlung sind mindestens drei Tage vor dem Termin der Generalversammlung beim Vorstand schriftlich, per E-Mail einzureichen.
 (5) Gültige Beschlüsse – ausgenommen solche über einen Antrag auf Einberufung einer außerordentlichen Generalversammlung – können nur zur Tagesordnung gefasst werden.
 (6) Bei der Generalversammlung sind alle Mitglieder teilnahmeberechtigt. Stimmberechtigt sind nur die ordentlichen und die Ehrenmitglieder. Jedes Mitglied hat eine Stimme. Die Übertragung des Stimmrechts auf ein anderes Mitglied im Wege einer schriftlichen Bevollmächtigung ist zulässig.
@@ -167,4 +167,4 @@ Dem Vorstand obliegt die Leitung des Vereins. Er ist das „Leitungsorgan“ im 
 
 (1) Die freiwillige Auflösung des Vereins kann nur in einer Generalversammlung und nur mit Zweidrittelmehrheit der abgegebenen gültigen Stimmen beschlossen werden.
 (2) Diese Generalversammlung hat auch über die Abwicklung zu beschließen. Insbesondere hat sie einen Abwickler zu berufen und Beschluss darüber zu fassen, wem dieser das nach Abdeckung der Passiven verbleibende Vereinsvermögen zu übertragen hat.
-(3) Bei (freiwilliger oder behördlicher) Auflösung des Vereins oder bei Wegfall des bisherigen Vereinszwecks ist das nach Abdeckung der Passiven verbleibende Vereinsvermögen im Sinne der §§ 34 ff BAO für gemeinnützige Zwecke zu verwenden und an eine im Sinne der §§ 34 ff BAO gemeinnützige Organisation (die einen Zweck hat, der dem Vereinszweck im Sinne des Punktes 2. der Statuten entspricht oder zumindest nahe kommt) zu übertragen, und zwar mit der Auflage, dieses Vermögen ausschließlich für gemeinnützige Zwecke im Sinne der §§ 34 ff BAO zu verwenden.
+(3) Bei (freiwilliger oder behördlicher) Auflösung des Vereins oder bei Wegfall des bisherigen Vereinszwecks ist das nach Abdeckung der Passiven verbleibende Vereinsvermögen im Sinne der §§ 34 ff. BAO für gemeinnützige Zwecke zu verwenden und an eine im Sinne der §§ 34 ff. BAO gemeinnützige Organisation (die einen Zweck hat, der dem Vereinszweck im Sinne des Punktes 2. der Statuten entspricht oder zumindest nahe kommt) zu übertragen, und zwar mit der Auflage, dieses Vermögen ausschließlich für gemeinnützige Zwecke im Sinne der §§ 34 ff. BAO zu verwenden.
