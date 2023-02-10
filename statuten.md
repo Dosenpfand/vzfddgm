@@ -6,7 +6,7 @@ header-includes:
 - \usepackage{lastpage}
 - \pagestyle{fancy}
 - \fancyhead[LO,LE]{}
-- "\\fancyhead[CO,CE]{Statuten: VZFDDGM}"
+- "\\fancyhead[CO,CE]{Statuten: VZFDDGM - \\input{metadata}}"
 - \fancyfoot[CO,CE]{\thepage\ von \pageref{LastPage}}
 - \fancypagestyle{plain}{\pagestyle{fancy}}
 ---
