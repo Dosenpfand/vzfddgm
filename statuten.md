@@ -29,7 +29,7 @@ header-includes:
 
 (1) Der Vereinszweck soll durch die in den Abs. 2 und 3 angeführten ideellen und materiellen Mittel erreicht werden.
 (2) Als ideelle Mittel dienen
-    a. Entwicklung, Wartung und Betrieb von frei zugänglichen digitaler Mittel, wie zum Beispiel E-Learning-Systemen, zur Unterstützung von Schüler:innen und Lehrkräften im Mathematikunterricht.
+    a. Entwicklung, Wartung und Betrieb von frei zugänglichen digitalen Mitteln, wie zum Beispiel E-Learning-Systemen, zur Unterstützung von Schüler:innen und Lehrkräften im Mathematikunterricht.
     b. Pflege von Inhalten in den oben genannten E-Learning-Systemen.
     c. Organisation und Teilnahme an Veranstaltungen im Bereich digitaler Bildung, die den Austausch von Erfahrungen und Wissen zu digitalen Hilfsmitteln im Mathematikunterricht fördern.
     d. Fortbildungs- und Informationsangebote für Lehrkräfte und Schüler:innen zur Nutzung oben genannter und alternativer Mittel und E-Learning-Systemen.
